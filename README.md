@@ -1,2 +1,3 @@
 # codingwork12
-this a first git repository
+this is the first git repository
+Sudhir
